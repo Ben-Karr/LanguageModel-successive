@@ -4,7 +4,7 @@ This project aims to build a __tool that aids kids in building electronic circui
 This is less of a problem in a classromm situation, where an experienced instructor can take a look at the circuit and identify the problem. But due to the corona situation the idea (and the desire) came, to have a backup solution, when it is not possible to have human help on site.
 
 
-## Project Phases: ##
+## Phases: ##
 * Gather Data:
   * Record videos of electronic circuits
   * Label if the circuit is correct or not & where the circuit is broken
