@@ -1,3 +1,1 @@
-The idea is to learn a Language Model, by gradually introducing it to more complex texts, ie. to try to mimic the way a child would learn a language. It would be interesting to see, how this approach compares to the (usual) brutforce way of training on Wiki articles.
-
-The language of choice is German and the data is gathered from different public sources.
+Build a Language Model by successively introducing new texts. One the one hand, this makes it possible to easily avoid memory issues with big files. On the other hand it might be an interesting experiment training a Language Model by increasing the text complexity (like Human learnign) and see if this helps in solving NLP tasks.
